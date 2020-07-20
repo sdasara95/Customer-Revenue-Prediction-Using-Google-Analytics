@@ -1,5 +1,3 @@
-## Applied Machine Learning CSCI-P556 Fall 2018 - Final Project
-
 ### Data: 
 Google Analytics transaction level data of Google Merchandise Store \
 Data available at : https://drive.google.com/drive/folders/10abk6uLSt4OQEWUWwcbI4GMQrzMnW5SE
