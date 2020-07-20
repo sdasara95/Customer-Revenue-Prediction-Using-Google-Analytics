@@ -1,6 +1,6 @@
 ### Data: 
 Google Analytics transaction level data of Google Merchandise Store \
-Data available at : https://drive.google.com/drive/folders/10abk6uLSt4OQEWUWwcbI4GMQrzMnW5SE
+Data available at : https://drive.google.com/file/d/1zmzytFVZpWd3dWxsY4v_JBxk_T0IjgTq/view?usp=sharing
 
 ### Models files: 
 phase1_glm.sav - Logistic Regression model from Phase 1 \
