@@ -14,9 +14,6 @@ bgf.pkl - Betagofitter model from Phase 3
 ### Code: 
 Contains the code to be executed to obtain the required results 
 
-### Report and PPT: 
-Contains the project report and the presentation
-
 ### Libraries to be installed 
 Apart from pre-installed packages such as pandas,numpy,sklearn,matplotlib,pickle,datetime and warnings:
 pip install -U imbalanced-learn \
